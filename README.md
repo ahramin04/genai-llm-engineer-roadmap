@@ -34,6 +34,9 @@
 - [Sentence Transformers](https://www.sbert.net/)
 - [OWASP GenAI Security Project](https://genai.owasp.org/)
 
+## Study Hub
+[Stage-by-stage courses, videos, blogs, papers and documentation](./resources/STUDY-HUB.md)
+
 ## 50 projects
 
 See [PROJECTS.md](./PROJECTS.md). Every project includes a concrete outcome, engineering constraints, evaluation ideas and interview questions.
